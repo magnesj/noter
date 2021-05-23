@@ -6,7 +6,7 @@ Min avdøde bestefar Georg skrev en god del dikt med tema som naturen, kristenli
 
 Jeg har også forsøkt å lage egne sanger og har tatt med en av disse.
 
-Disse notene kan fritt benyttes uten vederlag.
+Disse notene kan fritt benyttes uten vederlag. Dersom du har kommentarer eller spørsmål kan du legge dette inn på [GitHub](https://github.com/magnesj/noter/issues/new)
 
 ## Glad i dæ
 Tekst og melodi : Magne Sjaastad
