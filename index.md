@@ -1,10 +1,12 @@
-# Melodier
+# Sanger
 
-Jeg har lagd noen melodier og ønsker å gjøre disse tilgjengelig for andre som er interessert i gitarbasert musikk.
+Mitt navn er Magne Sjaastad, og jeg har lagd noen melodier og ønsker å gjøre disse tilgjengelig for andre som er interessert i gitarbasert musikk.
 
-Min avdøde bestefar Georg skrev en god del dikt med tema som naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp en diktbok med noen av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til tre av diktene hans. 
+Min avdøde bestefar Georg skrev en god del dikt med tema som naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp en diktbok med noen av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til tre av diktene hans.
 
 Jeg har også forsøkt å lage egne sanger og har tatt med en av disse.
+
+Disse notene kan fritt benyttes uten vederlag.
 
 ## Glad i dæ
 Tekst og melodi : Magne Sjaastad
@@ -40,7 +42,6 @@ Melodi: Magne Sjaastad
 [Blåmeisparet (noter PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/Blaameisparet.pdf)
 
 [Blåmeisparet (besifring PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/blaameisparet_besifring.pdf)
-
 
 
 ## Nyttige verktøy for å lage noter
