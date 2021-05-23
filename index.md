@@ -44,9 +44,9 @@ Melodi: Magne Sjaastad
 
 
 ## Nyttige verktøy for å lage noter
-[musescore.org](musescore.org) Noteprogram for å redigere noter på en relativt enkel måte 
+[musescore.org](https://musescore.org) Noteprogram for å redigere noter på en relativt enkel måte 
 
-[musescore.com](musescore.com) Mange tilgjengelige noter som andre har lagt ut åpent tilgjengelig
+[musescore.com](https://musescore.com) Mange tilgjengelige noter som andre har lagt ut åpent tilgjengelig
 
 [Songpress](https://www.skeed.it/songpress) Verktøy for å editere sanger med besifring
 
