@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Melodier jeg har jobbet med
 
-You can use the [editor on GitHub](https://github.com/magnesj/noter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jeg har lagd noen melodier og ønsker å gjøre disse tilgjengelig for andre som er interessert i gitarbasert musikk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Min avdøde bestefar Georg har skrevet en god del dikt. For mange år siden hjalp jeg han med å trykke opp en diktbok med noen av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til tre av diktene hans. 
 
-### Markdown
+# Noter på MuseScore
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Glad i dæ
+https://musescore.com/user/29244854/scores/6784934
 
-```markdown
-Syntax highlighted code block
+## Demring
+https://musescore.com/user/29244854/scores/6784907
 
-# Header 1
-## Header 2
-### Header 3
+## Såmannen
+https://musescore.com/user/29244854/scores/6784901
 
-- Bulleted
-- List
+## Blåmeisparet
+https://musescore.com/user/29244854/scores/6784893
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Nyttige verktøy for å lage noter
+[musescore.org](musescore.org) Noteprogram for å redigere noter på en relativt enkel måte 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnesj/noter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[musescore.com](musescore.com)  Mange tilgjengelige noter som andre har lagt ut åpent tilgjengelig
