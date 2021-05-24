@@ -1,12 +1,23 @@
-# Sanger
+# Melodier og noter
 
 Mitt navn er Magne Sjaastad, og jeg har lagd noen melodier og ønsker å gjøre disse tilgjengelig for andre som er interessert i gitarbasert musikk.
 
-Min avdøde bestefar Georg skrev en god del dikt med tema som naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp en diktbok med noen av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til tre av diktene hans.
+Min avdøde bestefar Georg skrev en god del dikt med tema knyttet til naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp ei diktbok med flere av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til noen av diktene hans.
 
 Jeg har også forsøkt å lage egne sanger og har tatt med en av disse.
 
 Disse notene kan fritt benyttes uten vederlag. Dersom du har kommentarer eller spørsmål kan du legge dette inn på [GitHub](https://github.com/magnesj/noter/issues/new)
+
+## Blåmeisparet
+Tekst: Georg Sjaastad
+
+Melodi: Magne Sjaastad
+
+[Blåmeisparet (musescore)](https://musescore.com/user/29244854/scores/6784893)
+
+[Blåmeisparet (noter PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/Blaameisparet.pdf)
+
+[Blåmeisparet (besifring PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/blaameisparet_besifring.pdf)
 
 ## Glad i dæ
 Tekst og melodi : Magne Sjaastad
@@ -19,6 +30,7 @@ Tekst og melodi : Magne Sjaastad
 
 ## Demring
 Tekst: Georg Sjaastad
+
 Melodi: Magne Sjaastad
 
 [Demring (musescore)](https://musescore.com/user/29244854/scores/6784907)
@@ -27,21 +39,12 @@ Melodi: Magne Sjaastad
 
 ## Såmannen
 Tekst: Georg Sjaastad
+
 Melodi: Magne Sjaastad
 
 [Såmannen (musescore)](https://musescore.com/user/29244854/scores/6784901)
 
 [Såmannen (noter PDF)](https://github.com/magnesj/noter/blob/gh-pages/saamannen/Saamannen.pdf)
-
-## Blåmeisparet
-Tekst: Georg Sjaastad
-Melodi: Magne Sjaastad
-
-[Blåmeisparet (musescore)](https://musescore.com/user/29244854/scores/6784893)
-
-[Blåmeisparet (noter PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/Blaameisparet.pdf)
-
-[Blåmeisparet (besifring PDF)](https://github.com/magnesj/noter/blob/gh-pages/blaameisparet/blaameisparet_besifring.pdf)
 
 
 ## Nyttige verktøy for å lage noter
@@ -50,5 +53,4 @@ Melodi: Magne Sjaastad
 [musescore.com](https://musescore.com) Mange tilgjengelige noter som andre har lagt ut åpent tilgjengelig
 
 [Songpress](https://www.skeed.it/songpress) Verktøy for å editere sanger med besifring
-
 
