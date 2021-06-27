@@ -22,11 +22,14 @@ Melodi: Magne Sjaastad
 ## Glad i dæ
 Tekst og melodi : Magne Sjaastad
 
+[Glad i deg (YouTube)](https://youtu.be/M7IstxYeHzU)
+
 [Glad i deg (musescore)](https://musescore.com/user/29244854/scores/6784934)
 
 [Glad i deg (noter PDF)](https://github.com/magnesj/noter/blob/gh-pages/glad-i-deg/glad%20i%20deg.pdf)
 
 [Glad i deg (besifring PDF)](https://github.com/magnesj/noter/blob/gh-pages/glad-i-deg/glad%20i%20deg-besifring.pdf)
+
 
 ## Demring
 Tekst: Georg Sjaastad
