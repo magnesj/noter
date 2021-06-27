@@ -23,6 +23,8 @@ Melodi: Magne Sjaastad
 Tekst og melodi : Magne Sjaastad
 
 [Glad i deg (YouTube)](https://youtu.be/M7IstxYeHzU)
+Intrumenter og miksing : Jan Inge Wenn
+Koring : Stig Anders Bjørgum
 
 [Glad i deg (musescore)](https://musescore.com/user/29244854/scores/6784934)
 
