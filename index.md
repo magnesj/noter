@@ -2,9 +2,9 @@
 
 Mitt navn er Magne Sjaastad, og jeg har lagd noen melodier og ønsker å gjøre disse tilgjengelig for andre som er interessert i gitarbasert musikk.
 
-Min avdøde bestefar Georg skrev en god del dikt med tema knyttet til naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp ei diktbok med flere av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodi til noen av diktene hans.
+Min avdøde bestefar Georg skrev en god del dikt med tema knyttet til naturen, kristenliv og stolthet for landet. For mange år siden hjalp jeg han med å trykke opp ei diktbok med flere av diktene hans. I løpet av denne prosessen ble jeg inspirert til å lage melodier til noen av diktene hans.
 
-Jeg har også forsøkt å lage egne sanger og har tatt med en av disse.
+Jeg har også tatt med en av mine egne sanger.
 
 Disse notene kan fritt benyttes uten vederlag. Dersom du har kommentarer eller spørsmål kan du legge dette inn på [GitHub](https://github.com/magnesj/noter/issues/new)
 
